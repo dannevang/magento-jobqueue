@@ -1,5 +1,5 @@
 app/code/community/Jowens/JobQueue/                          public_html/app/code/community/Jowens/JobQueue/
-app/design/adminhtml/default/default/layout/jowens/          app/design/adminhtml/default/default/layout/jowens/
-app/design/adminhtml/default/default/template/jowens/        app/design/adminhtml/default/default/template/jowens/
-app/etc/modules/*                                           app/etc/modules/
-lib/DJJob/                                                   lib/DJJob/
+app/design/adminhtml/default/default/layout/jowens/          public_html/app/design/adminhtml/default/default/layout/jowens/
+app/design/adminhtml/default/default/template/jowens/        public_html/app/design/adminhtml/default/default/template/jowens/
+app/etc/modules/*                                           public_html/app/etc/modules/
+lib/DJJob/                                                   public_html/lib/DJJob/
